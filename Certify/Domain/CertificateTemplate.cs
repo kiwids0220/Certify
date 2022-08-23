@@ -4,7 +4,7 @@ using System.DirectoryServices;
 using System.Security.AccessControl;
 using System.Security.Cryptography;
 using System.Security.Principal;
-
+#nullable enable
 namespace Certify.Domain
 {
     // from https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-crtd/1192823c-d839-4bc3-9b6b-fa8c53507ae1
